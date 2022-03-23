@@ -81,9 +81,7 @@ h1 {
   color: #fff;
   padding: 10px 15px;
   border: none;
-  position: absolute;
-  right: 43%;
-  bottom: 28%;
+  
 }
 
 .post_form textarea {
